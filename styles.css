@@ -1,0 +1,336 @@
+.logo {
+    width: 130px;
+    margin-left: 50px;
+}
+.FIORELLO{
+   
+    margin-left: -350px;
+}
+
+nav {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ margin-bottom: 50px;
+
+
+}
+
+
+.list-items {
+    list-style: none;
+    display: inline;
+    margin: 10px;
+
+}
+
+.items {
+    margin-left: 240px;
+
+}
+
+.links {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 700;
+    font-family: "Pacifico", system-ui;
+}
+
+.links:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+#graze {
+    text-align: center;
+    font-family: "Italianno", cursive;
+    font-size: 100px;
+    font-weight: 700;
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-top: 140px;
+}
+
+.pic {
+    width: 100%;
+    margin-top: -320px;
+    height: 110vh;
+
+}
+.ordernow{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: -90px;
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    font-family: "Italianno", cursive;
+    font-family: "Nanum Myeongjo", system-ui;
+   
+    
+}
+.ordernow:hover{
+    text-decoration: underline;
+    color: #bb2121;
+}
+
+.about{
+    margin: 5% 60px 0px 19%;
+
+
+}
+
+.aboutcontent{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-family: "Fredoka", system-ui;
+    font-weight: 500;
+}
+
+.content {
+    font-family: "Fredoka", system-ui;
+}
+
+.aboutus {
+    text-decoration: none;
+    background-color: rgb(116, 27, 27);
+    color: beige;
+    padding: 7px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.aboutimage {
+    width: 500px;
+    height: 50vh;
+    margin-left: 560px;
+    margin-top: -290px;
+    margin-bottom: 15px;
+    border: solid;
+
+
+}
+
+.menuimage {
+    width: 400px;
+    height: 400px;
+    margin-left: 75px;
+    margin-top: 20px;
+    border: solid;
+    border-width: 5px;
+
+
+}
+
+.menu {
+    background-color: rgb(249, 255, 162);
+    padding: 15px;
+}
+
+.RECEPIES {
+    position: relative;
+    text-align: center;
+    margin-top: -250px;
+    color: rgb(236, 238, 107);
+    font-family: "Italianno", system-ui;
+    font-size: 100px;
+}
+
+#clr {
+    font-family: "Nanum Myeongjo", system-ui;
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+    margin-left: 30px;
+}
+
+#btn {
+    text-decoration: none;
+    background-color: rgb(155, 37, 37);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+.menuimg {
+    width: 100%;
+    height: 80vh;
+    margin-top: -375px;
+}
+
+.DISCOVER {
+    position: relative;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 60px;
+    font-family: "Italianno", system-ui;
+    color: rgb(236, 238, 107);
+
+}
+
+#span {
+    color: rgb(0, 0, 0);
+    font-family: "Nanum Myeongjo", system-ui;
+
+}
+
+.service {
+    text-align: center;
+    padding: 80px;
+}
+
+.our {
+    font-family: "Merriweather", system-ui;
+    font-weight: 600;
+
+}
+
+.delicious {
+    font-weight: 300;
+    font-family: "Satisfy", system-ui;
+    font-size: 30px;
+}
+
+.exp {
+    color: yellow;
+
+}
+
+.orders {
+    text-decoration: none;
+    background-color: #bb2121;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.Click {
+    text-align: center;
+
+}
+#section4{
+    padding-top: 5rem;
+    width: 100%;
+    height: auto;
+    background-color: whitesmoke;
+}
+.kanit{
+    font-family: "Italianno", system-ui;
+    
+}
+.us{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: auto;
+}
+.social-icon {
+    font-size: 1.5rem;
+}
+#newsa{
+    color: black;
+    font-style: normal;
+    text-decoration: none;
+}
+#newsa:hover{
+    color: #Ffd700;
+}
+.social-icon:hover{
+    color: #Ffd700;
+}
+.footer {
+    background-color: rgb(39, 37, 37);
+    width: 100%;
+    height: auto;
+}
+
+.triangle{
+    background-color: rgb(25, 21, 21);
+}
+.up-arrow{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 70px;
+    background-color: rgb(39, 37, 37);
+    clip-path: polygon(50% 40%, 100% 100%, 0% 100%);
+    position: relative;
+    z-index: 1;
+    bottom:-5px;
+}
+.arrow:hover{
+    color: #Ffd700;
+}
+/* @media queries  */
+/* medium screen  */
+
+
+
+
+ /* Default styles */
+ #Navigation {
+    background-color: white;
+}
+.logo {
+    width: 100px;
+}
+.head {
+    text-align: center;
+}
+.items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.items .links {
+    color: black;
+    text-decoration: none;
+}
+
+/* Styles for screens wider than 600px */
+@media (min-width: 600px) {
+    .logo {
+        width: 150px;
+    }
+    .head {
+        text-align: left;
+    }
+    .items {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
+
+/* Styles for screens wider than 768px */
+@media (min-width: 768px) {
+    .logo {
+        width: 200px;
+    }
+    .head {
+        text-align: right;
+    }
+    .items .links {
+        color: blue;
+    }
+}
+
+/* Styles for screens wider than 1024px */
+@media (min-width: 1024px) {
+    #Navigation {
+        background-color: rgb(255, 255, 255);
+    }
+    .logo {
+        width: 250px;
+    }
+    .items .links {
+        color: red;
+    }
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;
+}
